@@ -1,5 +1,4 @@
 # React Tutorial
-___
 Learn the fundamentals of React 
 - simple and class components
 - state
@@ -7,6 +6,8 @@ Learn the fundamentals of React
 - insert the data.
 
 ## Demo
-___
 
-## [view the demo !](https://prajapatikundan.github.io/To-do-list-react-app/)
+## [view the demo !](https://prajapatikundan.github.io/To-do-list-react-app/).
+
+
+
