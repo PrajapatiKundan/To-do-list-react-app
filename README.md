@@ -7,7 +7,7 @@ Learn the fundamentals of React
 
 ## Demo
 
-## [view the demo !](https://prajapatikundan.github.io/To-do-list-react-app/).
+## [view the demo !](https://prajapatikundan.github.io/To-do-list-react-app/)
 
 
 
